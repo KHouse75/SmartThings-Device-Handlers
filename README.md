@@ -1,1 +1,1 @@
-SmartThings MQTT and ESP8266 Device Handlers
+SmartThings MQTT and ESP8266 Integration
